@@ -5,5 +5,5 @@ An application made with the intention to practice TypeScript and use some of th
 - TypeScript
 - [Faker](https://github.com/faker-js/faker)
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript?hl=pt_BR)
+- [Parcel](https://parceljs.org/languages/typescript/)
 
-## How run this project in your machine
